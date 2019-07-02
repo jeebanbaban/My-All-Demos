@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <!--TOOLBAR-->
+    <string name="toolbar_title">Toolbar Title</string>
+    <string name="toolbar_subtitle_this_is">Toolbar Subtitle this is</string>
+
+    <!--LOGIN PAGE-->
+    <string name="sign_in">sign in</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="login_button">LOGIN</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+
+    <!--HOME PAGE-->
+    <string name="fosoler_somosya">Fosoler Somosya</string>
+    <string name="prakritik_durjog">Prakritik Durjog</string>
+    <string name="krishak_nibiskikaran">Nibiskikaran</string>
+    <string name="scientist_motamot">Scientist Motamot</string>
+    <string name="govt_scheme">Govt Scheme</string>
+    <string name="krishi_dapter_cntct">Krishi Dapter cntct</string>
+    <string name="dist_info">Dist Info</string>
+    <string name="state_info">State Info</string>
+    <string name="govt_info">Govt Info</string>
+    <string name="krisi_somosya_somadhaner_jonno">krisi somosya somadhaner jonno</string>
+    <string name="phone_korun_tollfree_number_a">phone korun tollfree number a</string>
+    <string name="tollfree_no">1800 103 1100</string>
+    <string name="monday_to_friday_7_am_to_7_pm">(Monday to Friday 7 AM to 7 PM)</string>
+    <string name="bivag_samuho">Menu Items</string>
+
+</resources>
