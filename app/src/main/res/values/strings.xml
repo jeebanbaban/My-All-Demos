@@ -5,6 +5,15 @@
     <string name="toolbar_title">Toolbar Title</string>
     <string name="toolbar_subtitle_this_is">Toolbar Subtitle this is</string>
 
+    <string-array name="qualificationArray">
+        <item>Select-Qualification</item>
+        <item>Graduation</item>
+        <item>HS</item>
+        <item>Madhaymik</item>
+        <item>8 Pass</item>
+    </string-array>
+
+
     <!--LOGIN PAGE-->
     <string name="sign_in">sign in</string>
     <string name="hint_username">Username</string>

@@ -26,8 +26,8 @@ public class BindActivity extends AppCompatActivity implements DataInterface{
         //setContentView(R.layout.activity_bind);
         binding= DataBindingUtil.setContentView(this,R.layout.activity_bind);
         imageUrl="http://www.sclance.com/pngs/small-png/small_png_1255715.jpg";
-
         student=new Student();
+
         student.setName("Jeeban Bagdi");
         student.setStream("Computer Science");
         student.setRollNo("15800112008");
